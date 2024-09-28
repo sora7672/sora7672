@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=sora7672)
+![](https://komarev.com/ghpvc/?username=sora7672&color=blueviolet&style=flat-square&label=Number+of+Profileviews:)
 
 
 <!--
