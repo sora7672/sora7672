@@ -13,14 +13,12 @@
 
 ## I can work with:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,sqlite,pycharm,idea,git,github" />
-</br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,discordjs" />
+    <img src="https://skillicons.dev/icons?i=sqlite,php,mongodb,nodejs,pycharm,idea,git,github,discord,bots,discordjs&perline=4" />
 </p>
 
 ## I know a little, but dont feel comfortable with:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,css,eclipse,flask,gcp,html,npm,powershell,react,ts,unreal,windows&perline=4" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,ts,css,html,react,flask,unreal,npm,eclipse,gcp,windows&perline=4" />
 
 </p>
 
