@@ -1,6 +1,8 @@
 # About me
 
-> Software Developer, Pattern Thinker, Teacher at heart
+> Software Architect, Pattern Thinker, Teacher at heart
+
+> Program **Top Down** , but learn **Bottom Up**... thats how you never reach the average
 
 I design and build software with a strong focus on **quality over quantity**.
 You won't find hundreds of commits from me. I collect, iterate, and push when things are actually done.
